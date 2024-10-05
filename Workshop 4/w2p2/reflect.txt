@@ -1,0 +1,8 @@
+/***********************************************************************
+				REFLECTION
+// Name: MOHAMED ASHRAF BHAROT         Date:2023-10-08        Reason
+***********************************************************************/
+
+
+
+In this workshop i created two cpp files named Label and LabelMarker. The Label class represents a label with customizable content and frame, offering constructors for different label configurations, a function to read user input for label content, and another to print the label within its specified frame. Additionally, the class handles memory allocation and release for the content.The LabelMaker class is designed to manage an array of Label objects. Its constructor dynamically allocates an array of Label objects based on the provided number of labels, with error handling for non-positive input values. The readLabels function prompts the user to input content for each label in the array, and the printLabels function displays each label's content within its frame. The destructor ensures proper memory cleanup by deallocating the memory used by the array of Label objects. This workshop allows  to create and manage multiple labels, customizing their frames and content, and then print them neatly framed, all while handling memory management and user input validation.

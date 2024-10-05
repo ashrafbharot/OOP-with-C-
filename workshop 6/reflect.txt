@@ -1,0 +1,7 @@
+************************************REFLECTION***************************************
+
+Name: MOHAMED ASHRAF BHAROT
+Student#:    139539225
+Email:  mamabharot@myseneca.ca
+Date:    2023-11-08
+I learned about deep copying and deep assignment in classes with resources, as well as how to resize allocated memory and overload insertion and extraction operators. I discovered that classes with resources are classes that include dynamically allocated data members and variables, which we call resources. I realized that copy constructors and copy assignments are needed when assigning or copying a resource or a class with resources to another resource or class. I also learned how to implement deep copying and deep assignment in classes with resources, which involves allocating new memory for each of the new resources and then copying the data from the source object to a newly created object of the same type. Additionally, I learned how to resize allocated memory by creating a temporary double pointer, allocating memory with the increased size, copying all values to it, deallocating the old memory, and setting the pointer to the temporary pointer

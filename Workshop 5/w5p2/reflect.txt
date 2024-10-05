@@ -1,0 +1,6 @@
+				Reflection
+// -----------------------------------------------------------
+// Name: MOHAMED ASHRAF BHAROT      Date: 2023-10-15           Reason
+// -----------------------------------------------------------*/
+
+In this workshop, I worked on coding two files Portfolio.cpp and Portfolio.h. Through these files, I got to get familiarized into several fundamental programming concepts. I learned how to create and use classes, utilize constructors to initialize objects, and use operator overloading for custom. Type conversion operators were particularly very new for me, it allows for seamless conversions between data types. Error handling and validation were essential in ensuring data integrity, and I also gained experience with managing memory and using namespaces for code organization. Beyond this, the workshop showcased the importance of modular programming, organized code by separating class definitions in header files and their implementations in source files. 

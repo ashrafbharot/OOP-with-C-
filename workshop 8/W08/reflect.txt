@@ -1,0 +1,4 @@
+Name: MOHAMED ASHRAF BHAROT 
+STUDENT ID:139539225
+In workshop 8, I used abstract classes, pure virtual functions, and virtual functions. The purpose of virtual functions is to facilitate dynamic dispatch, where the program calls these functions based on the type of the object they point to, not the type of the pointer object itself. They serve as a gateway, allowing access to classes from a common starting point. Abstract classes are base classes containing at least one pure virtual function, designed to be inherited by derived classes. The Shape class exemplifies an ABC, declaring pure virtual functions for subsequent implementation. The Shape class is also considered a pure interface, devoid of any data members. Using ABCs, we conceal classes from client code, permitting access only through pointers of the Shape class. Arrays and pointers are valuable when working with abstract base classes.
+

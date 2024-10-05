@@ -1,0 +1,8 @@
+/***********************************************************************				 Reflection
+// -----------------------------------------------------------
+// Name: MOHAMED ASHRAF BHAROT           Date: 2023-09-21          Reason
+***********************************************************************/
+
+Q.) Study your final solutions for each deliverable of the workshop, reread the related parts of the course notes, and make sure that you have understood the concepts covered by this workshop. This should take no less than 30 minutes of your time and the result is suggested to be at least 150 words in length.
+
+==> In this workshop we use dynamic memory. It could be created by using ‘new’ command and its important to delete the memory after the use with ‘delete []’ command. Moreover, this was the first-time using arrays and structures together in oop workshop. This workshop had major part of file handling.  ‘deallocateMemory’ function was new to work with. This function frees dynamically allocated memory when its no longer needed. String manipulation was also part of the workshop.
