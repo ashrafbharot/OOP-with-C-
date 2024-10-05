@@ -1,0 +1,3 @@
+NAME: MOHAMED ASHRAF BHAROT
+DATE: 2023-11-23
+In this week I got to learn about templates in the oop. Templates allows function and classes work with different data types. In this workshop I worked with functions, memory management, conditional statement. I also got to learn more about inheritance. I faced some problems with memory leak but after some research and help from friends I got to learn how to solve the memory leak and I was able to run my code for workshop 9 successfully. I also did dynamic memory allocation and deletion. So far, I used most of the topics I learned from the first week of my oop class in this workshop.
