@@ -1,0 +1,17 @@
+******************************************************************************
+					Reflection
+Full Name	:MOHAMED ASHRAF BHAROT
+Student ID#     :139539225
+Email		:mamabharot@myseneca.ca
+Section	    	:ZCC
+Authenticity Declaration:
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+******************************************************************************/
+// -----------------------------------------------------------
+// Name: Mohamed Ashraf Bharot          Date: 2023-09-06         Reason
+/***********************************************************************/
+ 1).Study your final solutions for each deliverable of the workshop, reread the related parts of the course notes, and make sure that you have understood the concepts covered by this workshop. This should take no less than 30 minutes of your time and the result is suggested to be at least 150 words in length.
+
+---> Through this workshop i got familiarized with the basics of object oriented programming and modular concept of programming. This workshop had various modules inside it such as file handling, string manipulation and error handling. It was new for me to work with namespace. Using namespace helps to avoid naming conflict in the code. This workshop helped me to understand the memory leak concept and how to check memory leak for the code. In this workshop i used cin and cout function instead of scanf and printf command used in C language to get input and display output. Workshop 1 part 1 was based on finding and counting strings in the file, where as workshop 2 part 2 was about finding the information of the person from the phone directory.
