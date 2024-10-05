@@ -1,0 +1,5 @@
+NAME: MOHAMED ASHRAF BHAROT
+DATE: 2023-12-05
+
+
+In this workshop I utilized all the learning from my previous workshops. I used dynamically allocated memory. I also used input and output stream. In this workshop the overloaded operator<< invoked the virtual write function, which varied its behavior based on the actual object. I worked with functions, memory management, conditional statement. I used abstract class as well. To perform my code well I used copy constructor. 
