@@ -1,1 +1,2 @@
 # OOP-with-C-
+This repository contains my work from the Object-Oriented Programming with C++ course, where I learned the core principles of OOP, such as encapsulation, inheritance, polymorphism, and abstraction. I applied these concepts in various workshops, gaining hands-on experience in building efficient, modular, and maintainable code. Through these assignments, I developed a deeper understanding of how OOP enhances software design and improves the reusability of code.
